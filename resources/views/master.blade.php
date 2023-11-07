@@ -17,12 +17,12 @@
 <body>
 
     <div class="tittle" >
-    <div class="column" width="100%">
+        <div class="column" width="100%">
             <img src="/css/images/backround.jpg">
         </div>
-        <h1>The Marina</h1>
-        <h2>WELCOME TO</h2>
-        <h3>Resort And Hotel</h3>    
+            <h1>The Marina</h1>
+            <h2>WELCOME TO</h2>
+            <h3>Resort And Hotel</h3>    
     </div>
        
     <a class="booking" href="/page2">BOOK NOW</a> <!-- Link to navigate to Page 2 -->

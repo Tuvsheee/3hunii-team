@@ -1,6 +1,23 @@
-.back{
+body{
   background-image: url('images/backround.jpg');
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: left;
+  
+}
+.card{
+
+  background-color: red;
+}
+h1{
+  font-size:2em;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  position: absolute;
+  top:40%;
+  left:35%;
+}
+.search{
+  position: absolute;
+  top:50%;
+  left:35%;
+
 }
