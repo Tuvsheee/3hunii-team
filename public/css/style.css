@@ -76,7 +76,7 @@ h3{
 
 .row2{
   margin-top: 50px;
-  margin-left: 50px;
+  margin-left: 20px;
   display: flex;
   justify-content: space-between;
 }
@@ -110,7 +110,7 @@ h3{
   padding: 10px; /* Padding around the text */
   display: inline-block; /* Make the border fit the text width */
   color: #763F33;
-  margin-left: 80px;
+  margin-left: 50px;
 
 }
 
@@ -123,7 +123,7 @@ h3{
   padding: 10px; /* Padding around the text */
   display: inline-block; /* Make the border fit the text width */
   color: #763F33;
-  margin-left: 70px;
+  margin-left: 50px;
 
 }
 .info2{
@@ -160,7 +160,7 @@ font-size:1.5em;
   padding: 10px; /* Padding around the text */
   display: inline-block; /* Make the border fit the text width */
   color: #763F33;
-  margin-left: 70px;
+  margin-left: 50px;
 }
 .data6{
 
@@ -172,7 +172,7 @@ font-size:1.5em;
   padding: 10px; /* Padding around the text */
   display: inline-block; /* Make the border fit the text width */
   color: #763F33;
-  margin-left: 70px;
+  margin-left: 50px;
 }
 .data7{
   text-align: center;
@@ -213,22 +213,16 @@ font-size:1.5em;
   font-family: sans-serif;
 }
 .info10{
-  margin: 0;
-  padding: 0;
   text-align: center;
   font-family: sans-serif;
 
 }
 .info11{
-  margin: 0;
-  padding: 0;
   text-align: center;
   font-family: sans-serif;
 
 }
 .info12{
-  margin: 0;
-  padding: 0;
   text-align: center;
   font-family: sans-serif;
 
@@ -255,7 +249,7 @@ font-size:1.5em;
 .page6{
   display: inline-block;
   justify-content: space-between;
-  margin-left: 50px;
+  margin-left: 20px;
 }
 .page7{
   margin-top: 500px;
@@ -320,3 +314,19 @@ font-size:1.5em;
   padding: 20px;
   height: 400px;
 }
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 3em;
+  }
+
+  h2 {
+    font-size: 1.2em;
+  }
+
+  h3 {
+    font-size: 1.5em;
+  }
+}
+
+
